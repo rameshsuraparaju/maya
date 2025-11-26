@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "https://datagen.com/randomizer/salesforce-identifier-prefixes.schema.json",
+  "title": "Salesforce Identifiers: Entity-Key Prefix mappings",
+  "description": "Salesforce Identifiers: Entity-Key Prefix mappings",
+  "type": "array",
+  "items": {
+    "description": "Key prefixes for entities",
+    "type": "object",
+    "properties": {
+      "entity": {
+        "description": "Salesforce Entity Type",
+        "type": "string"
+      },
+      "keyPrefix":{
+        "description": "Key Prefix for ID",
+        "type": "string"
+      }
+    },
+    "minItems": 1,
+    "uniqueItems": true
+  },
+  "required": [
+    "id",
+    "hide",
+    "description"
+  ]
+}

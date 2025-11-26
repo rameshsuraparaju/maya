@@ -1,0 +1,94 @@
+[
+  {
+    "entity": "Account",
+    "keyPrefix": "001"
+  },
+  {
+    "entity": "Contact",
+    "keyPrefix": "003"
+  },
+  {
+    "entity": "User",
+    "keyPrefix": "005"
+  },
+  {
+    "entity": "Opportunity",
+    "keyPrefix": "006"
+  },
+  {
+    "entity": "Organization",
+    "keyPrefix": "00D"
+  },
+  {
+    "entity": "Group",
+    "keyPrefix": "00G"
+  },
+  {
+    "entity": "Report",
+    "keyPrefix": "00O"
+  },
+  {
+    "entity": "Task",
+    "keyPrefix": "00T"
+  },
+  {
+    "entity": "Event",
+    "keyPrefix": "00U"
+  },
+  {
+    "entity": "Profile",
+    "keyPrefix": "00e"
+  },
+  {
+    "entity": "Lead",
+    "keyPrefix": "00Q"
+  },
+  {
+    "entity": "ContentDocument",
+    "keyPrefix": "069"
+  },
+  {
+    "entity": "ContentDocumentLink",
+    "keyPrefix": "06A"
+  },
+  {
+    "entity": "WorkOrder",
+    "keyPrefix": "0WO"
+  },
+  {
+    "entity": "ServiceAppointment",
+    "keyPrefix": "08p"
+  },
+  {
+    "entity": "Dashboard",
+    "keyPrefix": "01Z"
+  },
+  {
+    "entity": "PermissionSet",
+    "keyPrefix": "0PS"
+  },
+  {
+    "entity": "Campaign",
+    "keyPrefix": "701"
+  },
+  {
+    "entity": "CaseComment",
+    "keyPrefix": "00a"
+  },
+  {
+    "entity": "Order",
+    "keyPrefix": "801"
+  },
+  {
+    "entity": "CurrencyType",
+    "keyPrefix": "01L"
+  },
+  {
+    "entity": "ConversionRate",
+    "keyPrefix": "04w"
+  },
+  {
+    "entity": "RecordType",
+    "keyPrefix": "012"
+  }
+]
